@@ -1,7 +1,7 @@
 # Blockchain publique, registre permissionné ou base de données classique ?
 
-**Auteur : Khaoula Boudarja**
-Master Fintech, Université Cadi Ayyad, Marrakech
+**Auteur : Khaoula Boudarja**  
+Master Finance appliquée (option Fintech), Université Cadi Ayyad, Marrakech  
 TP3 Blockchain (A. Elbasri)
 
 ## Question
