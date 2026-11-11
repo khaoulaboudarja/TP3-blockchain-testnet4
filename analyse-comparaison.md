@@ -2,7 +2,7 @@
 
 Étude comparative appliquée à un cas concret : **le transfert d'argent de la diaspora marocaine vers le Maroc**.
 
-Auteur : Khaoula Boudarja, Master Fintech, Université Cadi Ayyad
+Auteur : Khaoula Boudarja, Master en Finance appliquée (option Fintech), Université Cadi Ayyad, Marrakech
 
 ---
 
