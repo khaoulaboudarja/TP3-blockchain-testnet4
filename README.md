@@ -11,7 +11,7 @@ Quelle technologie choisir pour enregistrer les transferts d'argent de la diaspo
 Définition du cas concret, présentation des trois options, comparaison selon huit critères (contrôle, confiance, transparence, confidentialité, identification des clients, coût et rapidité, immutabilité, conformité), puis conclusion argumentée.
 
 ## Résultat
-Pour ce cas, un registre permissionné offre le meilleur compromis. Le détail est dans [analyse-comparaison.md](analyse-comparaison.md).
+Pour ce cas, un registre permissionné offre le meilleur compromis.Cette conclusion reste à confirmer avec des données récentes. Le détail est dans [analyse-comparaison.md](analyse-comparaison.md).
 
 ## Sources
 - Satoshi Nakamoto, *Bitcoin: A Peer-to-Peer Electronic Cash System* (2008)
