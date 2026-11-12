@@ -58,7 +58,8 @@ La **blockchain publique** reste pertinente pour d'autres usages (preuve d'exist
 - Satoshi Nakamoto, *Bitcoin: A Peer-to-Peer Electronic Cash System* (2008), bitcoin.org
 - Documentation Hyperledger Fabric, hyperledger-fabric.readthedocs.io
 - Cours Blockchain, Master Fintech, UCA (A. Elbasri)
-- À compléter : une source sur les transferts de fonds de la diaspora et une source sur la réglementation au Maroc
+- - Office des changes, bulletin des indicateurs mensuels des échanges extérieurs (30 octobre 2026), relayé par allAfrica : « Maroc : L'apport des MRE en transferts et en tourisme… », https://fr.allafrica.com/stories/202611030228.html
+- Hespress FR, « Actifs numériques : ce que prévoit le projet de loi 42.25 », 9 novembre 2025, https://fr.hespress.com/449112-actifs-numeriques-ce-que-prevoit-le-projet-de-loi-42-25.html
 
 ## 8. Outils utilisés
 
